@@ -1,2 +1,3 @@
 # hello-world
 store some ideas,notes,etc...
+this is the first change in new branch,which it could help me use github well quickly.
